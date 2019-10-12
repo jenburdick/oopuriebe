@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://peshomahd.rudygordon.ca/sitemap.xml
